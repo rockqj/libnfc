@@ -24,6 +24,7 @@ configure
 debian/
 depcomp
 examples/nfc-anticol
+examples/nfc-detect-chinese-magic-card
 examples/nfc-dep-initiator
 examples/nfc-dep-target
 examples/nfc-emulate-forum-tag2
@@ -60,3 +61,4 @@ utils/nfc-mfultralight
 utils/nfc-read-forum-tag3
 utils/nfc-relay-picc
 utils/nfc-scan-device
+utils/nfc-barcode
